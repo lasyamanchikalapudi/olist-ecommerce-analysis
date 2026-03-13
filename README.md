@@ -98,4 +98,4 @@ olist-ecommerce-analysis/
 
 **Lasya Manchikalapudi**  
 Final-year CS student | Aspiring Data Analyst  
-[LinkedIn]((https://www.linkedin.com/in/lasyamanchikalapudi/)) • [GitHub](https://github.com/lasyamanchikalapudi)
+[LinkedIn](https://www.linkedin.com/in/lasyamanchikalapudi/) • [GitHub](https://github.com/lasyamanchikalapudi)
