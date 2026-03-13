@@ -92,6 +92,7 @@ olist-ecommerce-analysis/
 **Page 3 — Customer Satisfaction**
 ![Customer Satisfaction](dashboard/page3_customer_satisfaction.png)
 
+> 📈 EDA visualisations for all 8 findings are available in the [`screenshots/`](screenshots/) folder.
 ---
 
 ## 👩‍💻 Author
